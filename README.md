@@ -1,2 +1,2 @@
 #Movies-App
- Movies-app using HTML,CSS and Javascript
+#Movies-app using HTML,CSS and Javascript
