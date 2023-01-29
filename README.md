@@ -1,2 +1,2 @@
-# Movies-App
- Movies app like Netflix
+#Movies-App
+ Movies-app using HTML,CSS and Javascript
