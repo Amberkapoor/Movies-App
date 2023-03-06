@@ -1,2 +1,4 @@
 #Movies-App
-#Movies-app using HTML,CSS and Javascript
+Tech Stack
+---
+Clients: HTML,CSS and Javascript
